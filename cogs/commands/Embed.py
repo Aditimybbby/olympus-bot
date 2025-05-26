@@ -197,8 +197,8 @@ class Embed(commands.Cog):
 
 
 """
-@Author: Sonu Jana
-    + Discord: me.sonu
-    + Community: https://discord.gg/odx (Olympus Development)
+@Author: Aadi_67
+    + Discord: rxop
+    + Community: https://discord.gg/rxop
     + for any queries reach out support or DM me.
 """
