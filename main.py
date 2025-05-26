@@ -143,7 +143,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return f"© Olympus Development 2024"
+    return f"© AegisCore 2025"
 
 
 def run():
